@@ -4,7 +4,6 @@
 *.data*
 *.meta*
 *.index*
-*.md
 .vs
 .git
 model/
