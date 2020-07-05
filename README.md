@@ -1,7 +1,8 @@
 # AI Pad  
-This is a text editor with standard features of any text editor  
-Deveoped by ```integrating``` two open source implementations  
-It has features to extract ```key phrases``` in text using ```RAKE Algorithm```  
+A Text editor with standard editing features of any editor along with an  
+```AI feature to extract key phrases``` in text using ```RAKE Algorithm```  
+
+Deveoped by ```integrating``` open source implementations of text editor and RAKE
 
 # Demo
 
