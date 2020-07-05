@@ -1,4 +1,4 @@
-#AI Pad  
+# AI Pad  
 This is a text editor with standard features of any text editor  
 Deveoped by ```integrating``` two open source implementations  
 It has features to extract ```key phrases``` in text using ```RAKE Algorithm```  
