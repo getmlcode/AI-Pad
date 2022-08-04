@@ -4,8 +4,8 @@ A Text editor with standard editing features of any editor along with an
 
 Deveoped by ```integrating``` open source implementations of text editor and RAKE
 
-# Demo
-
+# Demo 
+Popup shows the keyphrases in the contained text
 ![](https://github.com/getmlcode/AI-Pad/blob/master/AI-Pad-Rake-Demo-gif.gif)
 ![](https://github.com/getmlcode/AI-Pad/blob/master/AI%20Pad%20Demo.gif)
 
